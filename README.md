@@ -1,9 +1,9 @@
-****<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/linkdn-banner.png"> </div>
-<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+****<h1 align="center">Hey Everyone 🐧, I'm Emrullah Kapucu</h1>
+<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQHHJu1nKgd9Zg/profile-displaybackgroundimage-shrink_350_1400/0/1692105979134?e=1701907200&v=beta&t=TqgIABkXbAk_dznb9sFwZSg-Cd0Bmtea9riijqoad0U"> </div>
+<h3 align="center">CYBER SECURİTY // COMPUTER PROGRAMİNG>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/gHYyb5KCG_gAAAAd/mfpurrs-matrix.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="emrullahkapucu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrullahkapucu&label=Profile%20views&color=0e75b6&style=flat" alt="emrullahkapucu" /> </p>
 
 - 💻 I’m currently working on **SiberVatan** 
 
