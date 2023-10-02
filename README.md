@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrullahkapucu&show_icons=true&theme=secondary&locale=en" alt="emrullahkapucu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrullahkapucu¾theme=secondary&" alt="emrullahkapucu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrullahkapucu¾theme=secondary" alt="emrullahkapucu" /></p>
 
