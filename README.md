@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🐧, I'm Emrullah</h1>
 <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQHHJu1nKgd9Zg/profile-displaybackgroundimage-shrink_350_1400/0/1692105979134?e=1701907200&v=beta&t=TqgIABkXbAk_dznb9sFwZSg-Cd0Bmtea9riijqoad0U"> </div>
 <h3 align="center">Cyber Security Analist / Computer Programming</h3>
-
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/mfpurrs-matrix-the-matrix-cat-hacker-gif-9256641538887392248">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrullahkapucu&label=Profile%20views&color=77767b&style=flat" alt="emrullahkapucu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrullahkapucu" alt="emrullahkapucu" /></a> </p>
