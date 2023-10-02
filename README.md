@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🐧
 
 <h1 align="center">Hi 🐧, I'm Emrullah</h1>
 <h3 align="center">Cyber Security Analist / Computer Programming</h3>
@@ -33,3 +33,4 @@
 
 
 
+<p align="left"> <img src="https://media.tenor.com/WxbALsyxywcAAAAd/cyber-monday.gif" alt="mhmtbyzgl" /> </p>
