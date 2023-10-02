@@ -34,6 +34,6 @@
 
 
 
-<img src="https://media.tenor.com/330y0opJ25IAAAAC/cat-typing.gif" width="200" >
+<img src="https://media.tenor.com/330y0opJ25IAAAAC/cat-typing.gif" width="512" >
 
 
