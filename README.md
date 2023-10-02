@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, Emrullah KAPUCU</h1>
-<div align="center"> <img src="https://image.pngaaa.com/144/1994144-middle.png"> </div>
+<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQHHJu1nKgd9Zg/profile-displaybackgroundimage-shrink_350_1400/0/1692105979134?e=1701907200&v=beta&t=TqgIABkXbAk_dznb9sFwZSg-Cd0Bmtea9riijqoad0U"> </div>
 <h3 align="center">Cyber Security / Computer Programing</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/gHYyb5KCG_gAAAAd/mfpurrs-matrix.gif">
 
