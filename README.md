@@ -33,6 +33,5 @@
 
 
 
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+<img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="512" >
+
