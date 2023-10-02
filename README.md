@@ -1,4 +1,5 @@
 <h1 align="center">Hi 🐧, I'm Emrullah</h1>
+<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQHHJu1nKgd9Zg/profile-displaybackgroundimage-shrink_350_1400/0/1692105979134?e=1701907200&v=beta&t=TqgIABkXbAk_dznb9sFwZSg-Cd0Bmtea9riijqoad0U"> </div>
 <h3 align="center">Cyber Security Analist / Computer Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrullahkapucu&label=Profile%20views&color=77767b&style=flat" alt="emrullahkapucu" /> </p>
