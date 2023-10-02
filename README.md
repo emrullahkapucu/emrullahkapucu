@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrullahkapucu&" alt="emrullahkapucu" /></p>
 
-<img src="https://media.tenor.com/HTrUfC6CIScAAAAC/cat-typing-cat-typing-fire.gif" width="512" >
+<img src="https://media.tenor.com/HTrUfC6CIScAAAAC/cat-typing-cat-typing-fire.gif" width="352" >
