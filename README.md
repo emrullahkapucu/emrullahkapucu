@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrullahkapucu" alt="emrullahkapucu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/emrullahkapucuu" target="blank"><img src="https://img.shields.io/twitter/follow/emrullahkapucuu?logo=twitter&style=for-the-badge" alt="emrullahkapucuu" /></a> </p>
+<p align="left"> <a href="https://instagram.com/emrullah.kpc?igshid=YTQwZjQ0NmI0OA==" target="blank"><img src="https://img.shields.io/twitter/follow/emrullahkapucuu?logo=twitter&style=for-the-badge" alt="emrullahkapucuu" /></a> </p>
 
 - 💻 I’m currently working on **SiberVatan**
 
@@ -33,6 +33,6 @@
 
 
 
-<img src="https://media.tenor.com/330y0opJ25IAAAAC/cat-typing.gif" width="512" >
+<img src="https://media.tenor.com/330y0opJ25IAAAAC/cat-typing.gif" width="200" >
 
 
