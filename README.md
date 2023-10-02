@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, Emrullah KAPUCU</h1>
-
+<div align="center"> <img src="https://image.pngaaa.com/144/1994144-middle.png"> </div>
 <h3 align="center">Cyber Security / Computer Programing</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/LExRuFJBzJ4AAAAC/cat-typing-cat-typing-fire.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/gHYyb5KCG_gAAAAd/mfpurrs-matrix.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
