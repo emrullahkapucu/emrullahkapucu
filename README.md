@@ -33,6 +33,6 @@
 
 
 
-<img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="512" ><img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="512" >
+<img src="https://media.tenor.com/330y0opJ25IAAAAC/cat-typing.gif" width="512" >
 
 
