@@ -4,9 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/mfpurrs-matrix-the-matrix-cat-hacker-gif-9256641538887392248">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrullahkapucu&label=Profile%20views&color=77767b&style=flat" alt="emrullahkapucu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrullahkapucu" alt="emrullahkapucu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/emrullahkapucuu" target="blank"><img src="https://img.shields.io/twitter/follow/emrullahkapucuu?logo=twitter&style=for-the-badge" alt="emrullahkapucuu" /></a> </p>
 
 - 💻 I’m currently working on **SiberVatan**
 
