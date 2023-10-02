@@ -33,4 +33,6 @@
 
 
 
-<p align="left"> <img src="https://media.tenor.com/WxbALsyxywcAAAAd/cyber-monday.gif" alt="mhmtbyzgl" /> </p><p align="left"> <img src="https://media.tenor.com/WxbALsyxywcAAAAd/cyber-monday.gif" alt="mhmtbyzgl" /> </p><p align="left"> <img src="https://media.tenor.com/WxbALsyxywcAAAAd/cyber-monday.gif" alt="mhmtbyzgl" /> </p>
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
