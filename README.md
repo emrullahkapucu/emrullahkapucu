@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Emrullah</h1>
+<h1 align="center">Hi 🐧, I'm Emrullah</h1>
 <h3 align="center">Cyber Security Analist / Computer Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrullahkapucu&label=Profile%20views&color=77767b&style=flat" alt="emrullahkapucu" /> </p>
@@ -8,6 +8,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrullahkapucu" alt="emrullahkapucu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/emrullahkapucuu" target="blank"><img src="https://img.shields.io/twitter/follow/emrullahkapucuu?logo=twitter&style=for-the-badge" alt="emrullahkapucuu" /></a> </p>
+
+- 💻 I’m currently working on **SiberVatan**
+
+- 🛠 I’m looking to collaborate on **PHP,Javascript,Html,CSS.**
+
+- 📨 How to reach me **emrullahkapucu@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
