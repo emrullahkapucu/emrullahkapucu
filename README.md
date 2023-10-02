@@ -25,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrullahkapucu&show_icons=true&locale=en" alt="emrullahkapucu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrullahkapucu&" alt="emrullahkapucu" /></p>
+![MasterHead](https://media.tenor.com/HTrUfC6CIScAAAAC/cat-typing-cat-typing-fire.gif)
 
